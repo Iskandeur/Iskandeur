@@ -19,10 +19,10 @@ Based in Paris 🇫🇷, open to international opportunities 🌍.
 
 ### 🔭 Featured Projects
 
+* 🪢 **[Bounce CTI](https://github.com/Iskandeur/bounce-cti):** Autonomous CTI investigation tool.
 * ⚡ **[CyberZap / LobsterIntel](https://github.com/Iskandeur/cyber-zap-public):** Automated CTI pipeline — collects, scores and distributes threat intelligence via n8n (50+ nodes), evolving towards an agentic AI architecture (OpenClaw).
 * 🕵️ **[WhatsApp Social Graph](https://github.com/Iskandeur/whatsapp-social-graph):** Link analysis tool generating dynamic social graphs from messaging metadata exports.
 * ☁️ **[Auto 3-Tier AWS](https://github.com/Iskandeur/auto-3-tier-aws):** Automated deployment of a secure, highly available AWS infrastructure using Immutable Infrastructure principles.
-* 🤖 **[Adversarial LLM PoC](https://github.com/Iskandeur/adversarial-llm-poc):** Research on LLM vulnerabilities and security posture improvement.
 
 ---
 

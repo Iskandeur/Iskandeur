@@ -2,7 +2,7 @@
 
 ### Cybersecurity Student | Blue Team & Threat Intelligence
 
-I am a cybersecurity student at **École 2600**, specializing in **Threat Intelligence**, **SOC/DFIR**, and **OSINT**. Currently working in a CERT at the French Ministry of the Armed Forces. My goal is to build tools that turn raw data into actionable intelligence.
+I am a cybersecurity student at **École 2600**, specializing in **Threat Intelligence**, **SOC/DFIR**, and **OSINT**. Currently working at the French Ministry of the Armed Forces. My goal is to build tools that turn raw data into actionable intelligence.
 
 Based in Paris 🇫🇷, open to international opportunities 🌍.
 
